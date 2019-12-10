@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <RootNamespace>E_Cart.WebSite.DataEntities</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\E-Cart.WebSite.Interfaces\E-Cart.WebSite.Interfaces.csproj" />
+  </ItemGroup>
+
+</Project>

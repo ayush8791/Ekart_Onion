@@ -1,0 +1,8 @@
+C:\Users\Ayush_Garg\Documents\E-Cart-master\E-Cart-master\E-Cart.WebSite.CoreEntities\bin\Debug\netcoreapp3.0\E-Cart.WebSite.CoreEntities.deps.json
+C:\Users\Ayush_Garg\Documents\E-Cart-master\E-Cart-master\E-Cart.WebSite.CoreEntities\bin\Debug\netcoreapp3.0\E-Cart.WebSite.CoreEntities.dll
+C:\Users\Ayush_Garg\Documents\E-Cart-master\E-Cart-master\E-Cart.WebSite.CoreEntities\bin\Debug\netcoreapp3.0\E-Cart.WebSite.CoreEntities.pdb
+C:\Users\Ayush_Garg\Documents\E-Cart-master\E-Cart-master\E-Cart.WebSite.CoreEntities\obj\Debug\netcoreapp3.0\E-Cart.WebSite.CoreEntities.csprojAssemblyReference.cache
+C:\Users\Ayush_Garg\Documents\E-Cart-master\E-Cart-master\E-Cart.WebSite.CoreEntities\obj\Debug\netcoreapp3.0\E-Cart.WebSite.CoreEntities.AssemblyInfoInputs.cache
+C:\Users\Ayush_Garg\Documents\E-Cart-master\E-Cart-master\E-Cart.WebSite.CoreEntities\obj\Debug\netcoreapp3.0\E-Cart.WebSite.CoreEntities.AssemblyInfo.cs
+C:\Users\Ayush_Garg\Documents\E-Cart-master\E-Cart-master\E-Cart.WebSite.CoreEntities\obj\Debug\netcoreapp3.0\E-Cart.WebSite.CoreEntities.dll
+C:\Users\Ayush_Garg\Documents\E-Cart-master\E-Cart-master\E-Cart.WebSite.CoreEntities\obj\Debug\netcoreapp3.0\E-Cart.WebSite.CoreEntities.pdb

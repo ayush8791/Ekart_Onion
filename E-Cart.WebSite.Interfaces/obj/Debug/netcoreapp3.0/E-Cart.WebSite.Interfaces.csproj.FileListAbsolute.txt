@@ -1,0 +1,8 @@
+C:\Users\Ayush_Garg\Documents\E-Cart-master\E-Cart-master\E-Cart.WebSite.Interfaces\bin\Debug\netcoreapp3.0\E-Cart.WebSite.Interfaces.deps.json
+C:\Users\Ayush_Garg\Documents\E-Cart-master\E-Cart-master\E-Cart.WebSite.Interfaces\bin\Debug\netcoreapp3.0\E-Cart.WebSite.Interfaces.dll
+C:\Users\Ayush_Garg\Documents\E-Cart-master\E-Cart-master\E-Cart.WebSite.Interfaces\bin\Debug\netcoreapp3.0\E-Cart.WebSite.Interfaces.pdb
+C:\Users\Ayush_Garg\Documents\E-Cart-master\E-Cart-master\E-Cart.WebSite.Interfaces\obj\Debug\netcoreapp3.0\E-Cart.WebSite.Interfaces.csprojAssemblyReference.cache
+C:\Users\Ayush_Garg\Documents\E-Cart-master\E-Cart-master\E-Cart.WebSite.Interfaces\obj\Debug\netcoreapp3.0\E-Cart.WebSite.Interfaces.AssemblyInfoInputs.cache
+C:\Users\Ayush_Garg\Documents\E-Cart-master\E-Cart-master\E-Cart.WebSite.Interfaces\obj\Debug\netcoreapp3.0\E-Cart.WebSite.Interfaces.AssemblyInfo.cs
+C:\Users\Ayush_Garg\Documents\E-Cart-master\E-Cart-master\E-Cart.WebSite.Interfaces\obj\Debug\netcoreapp3.0\E-Cart.WebSite.Interfaces.dll
+C:\Users\Ayush_Garg\Documents\E-Cart-master\E-Cart-master\E-Cart.WebSite.Interfaces\obj\Debug\netcoreapp3.0\E-Cart.WebSite.Interfaces.pdb

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "E-Cart.WebSite.DataEntities/1.0.0": {
+        "dependencies": {
+          "E-Cart.WebSite.Interfaces": "1.0.0"
+        },
+        "runtime": {
+          "E-Cart.WebSite.DataEntities.dll": {}
+        }
+      },
+      "E-Cart.WebSite.Interfaces/1.0.0": {
+        "runtime": {
+          "E-Cart.WebSite.Interfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "E-Cart.WebSite.DataEntities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "E-Cart.WebSite.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

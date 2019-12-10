@@ -1,0 +1,15 @@
+C:\Users\Ayush_Garg\Documents\E-Cart-master\E-Cart-master\E-Cart.WebSite.BusinessEntities\bin\Debug\netcoreapp3.0\E-Cart.WebSite.BusinessEntities.deps.json
+C:\Users\Ayush_Garg\Documents\E-Cart-master\E-Cart-master\E-Cart.WebSite.BusinessEntities\bin\Debug\netcoreapp3.0\E-Cart.WebSite.BusinessEntities.dll
+C:\Users\Ayush_Garg\Documents\E-Cart-master\E-Cart-master\E-Cart.WebSite.BusinessEntities\obj\Debug\netcoreapp3.0\E-Cart.WebSite.BusinessEntities.csprojAssemblyReference.cache
+C:\Users\Ayush_Garg\Documents\E-Cart-master\E-Cart-master\E-Cart.WebSite.BusinessEntities\obj\Debug\netcoreapp3.0\E-Cart.WebSite.BusinessEntities.AssemblyInfoInputs.cache
+C:\Users\Ayush_Garg\Documents\E-Cart-master\E-Cart-master\E-Cart.WebSite.BusinessEntities\obj\Debug\netcoreapp3.0\E-Cart.WebSite.BusinessEntities.AssemblyInfo.cs
+C:\Users\Ayush_Garg\Documents\E-Cart-master\E-Cart-master\E-Cart.WebSite.BusinessEntities\bin\Debug\netcoreapp3.0\E-Cart.WebSite.BusinessEntities.runtimeconfig.json
+C:\Users\Ayush_Garg\Documents\E-Cart-master\E-Cart-master\E-Cart.WebSite.BusinessEntities\bin\Debug\netcoreapp3.0\E-Cart.WebSite.BusinessEntities.runtimeconfig.dev.json
+C:\Users\Ayush_Garg\Documents\E-Cart-master\E-Cart-master\E-Cart.WebSite.BusinessEntities\bin\Debug\netcoreapp3.0\E-Cart.WebSite.BusinessEntities.pdb
+C:\Users\Ayush_Garg\Documents\E-Cart-master\E-Cart-master\E-Cart.WebSite.BusinessEntities\bin\Debug\netcoreapp3.0\E-Cart.WebSite.CoreEntities.dll
+C:\Users\Ayush_Garg\Documents\E-Cart-master\E-Cart-master\E-Cart.WebSite.BusinessEntities\bin\Debug\netcoreapp3.0\E-Cart.WebSite.Interfaces.dll
+C:\Users\Ayush_Garg\Documents\E-Cart-master\E-Cart-master\E-Cart.WebSite.BusinessEntities\bin\Debug\netcoreapp3.0\E-Cart.WebSite.CoreEntities.pdb
+C:\Users\Ayush_Garg\Documents\E-Cart-master\E-Cart-master\E-Cart.WebSite.BusinessEntities\bin\Debug\netcoreapp3.0\E-Cart.WebSite.Interfaces.pdb
+C:\Users\Ayush_Garg\Documents\E-Cart-master\E-Cart-master\E-Cart.WebSite.BusinessEntities\obj\Debug\netcoreapp3.0\E-Cart.WebSite.BusinessEntities.csproj.CopyComplete
+C:\Users\Ayush_Garg\Documents\E-Cart-master\E-Cart-master\E-Cart.WebSite.BusinessEntities\obj\Debug\netcoreapp3.0\E-Cart.WebSite.BusinessEntities.dll
+C:\Users\Ayush_Garg\Documents\E-Cart-master\E-Cart-master\E-Cart.WebSite.BusinessEntities\obj\Debug\netcoreapp3.0\E-Cart.WebSite.BusinessEntities.pdb
